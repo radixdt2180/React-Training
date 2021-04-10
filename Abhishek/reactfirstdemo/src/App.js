@@ -6,6 +6,8 @@ import Content from './Content'
 import "bootstrap/dist/css/bootstrap.css";
 function App() {
   return (
+
+    
     <div className="App">
       <Nav></Nav>
       <SideBar></SideBar>
